@@ -1,0 +1,1 @@
+'In this file you are going to see my practice about sliding window algorithm in JavaScript.'
